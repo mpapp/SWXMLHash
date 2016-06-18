@@ -1,5 +1,5 @@
 [submodule "Carthage/Checkouts/Nimble"]
-	url = git@github.com:mpapp/Nimble.git
+	url = ssh://git@github.com/mpapp/Nimble.git
 	path = Carthage/Checkouts/Nimble
 [submodule "Carthage/Checkouts/Quick"]
 	url = ssh://git@github.com/mpapp/Quick.git
