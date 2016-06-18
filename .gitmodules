@@ -3,3 +3,4 @@
 	path = Carthage/Checkouts/Nimble
 [submodule "Carthage/Checkouts/Quick"]
 	url = ssh://git@github.com/mpapp/Quick.git
+	path = Carthage/Checkouts/Quick
