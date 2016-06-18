@@ -1,0 +1,4 @@
+[submodule "Carthage/Checkouts/Nimble"]
+	url = ssh://git@github.com/mpapp/Nimble.git
+[submodule "Carthage/Checkouts/Quick"]
+	url = ssh://git@github.com/mpapp/Quick.git
