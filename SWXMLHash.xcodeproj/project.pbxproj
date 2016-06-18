@@ -464,9 +464,11 @@
 					};
 					CD9D052B1A757D8B003CCB21 = {
 						CreatedOnToolsVersion = 6.1.1;
+						LastSwiftMigration = 0800;
 					};
 					CD9D05351A757D8B003CCB21 = {
 						CreatedOnToolsVersion = 6.1.1;
+						LastSwiftMigration = 0800;
 					};
 					CDDEC74B1BF6311A00AB138B = {
 						CreatedOnToolsVersion = 7.1.1;
@@ -826,6 +828,7 @@
 				PRODUCT_NAME = SWXMLHash;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -850,6 +853,7 @@
 				PRODUCT_NAME = SWXMLHash;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
@@ -872,6 +876,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "drmohundro.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -891,6 +896,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "drmohundro.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
